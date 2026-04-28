@@ -49,8 +49,7 @@ export default function HowItWorks() {
             <span className="gradient-text">up and running.</span>
           </h2>
           <p className="mt-4 text-xl text-slate-500 max-w-2xl mx-auto">
-            No plumbing required. Works across residential, commercial, and
-            community water systems.
+            Works across residential, commercial, and community water systems.
           </p>
         </motion.div>
 
