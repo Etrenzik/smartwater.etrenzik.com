@@ -74,7 +74,7 @@ export default function HowItWorks() {
                 </div>
 
                 {/* Step number */}
-                <div className="text-6xl font-black text-slate-50 absolute top-6 right-6 leading-none select-none">
+                <div className="text-6xl font-black text-slate-300 absolute top-6 right-6 leading-none select-none">
                   {step.number}
                 </div>
 
