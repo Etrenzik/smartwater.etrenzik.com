@@ -78,7 +78,7 @@ export default function Features() {
           </div>
           <h2 className="text-4xl lg:text-5xl font-extrabold text-slate-900 tracking-tight">
             Everything you need to{" "}
-            <span className="gradient-text">know your water.</span>
+            <span className="gradient-text">understand your water.</span>
           </h2>
           <p className="mt-4 text-xl text-slate-500 max-w-2xl mx-auto">
             Hardware precision meets intelligent software — giving you complete
