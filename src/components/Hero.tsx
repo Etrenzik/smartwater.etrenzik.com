@@ -57,7 +57,7 @@ export default function Hero() {
               transition={{ duration: 0.55, delay: 0.12 }}
               className="mt-6 text-xl text-slate-500 leading-relaxed max-w-lg"
             >
-              Install in minutes. Monitor in real time. Turn water flow into
+              Let us get you up and running. Monitor in real time. Turn water flow into
               financial control — from a single home to an entire community.
             </motion.p>
 

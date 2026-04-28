@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   keywords: "smart water meter, water monitoring, water billing, HOA billing, leak detection, water management",
   openGraph: {
     title: "Etrenzik — Smart Water Intelligence",
-    description: "Install in minutes. Monitor in real time. Turn water flow into financial control.",
+    description: "Let us get you up and running. Monitor in real time. Turn water flow into financial control.",
     type: "website",
   },
 };

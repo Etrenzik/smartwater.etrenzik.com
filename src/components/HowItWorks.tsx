@@ -45,8 +45,8 @@ export default function HowItWorks() {
             Simple Setup
           </div>
           <h2 className="text-4xl lg:text-5xl font-extrabold text-slate-900 tracking-tight">
-            Up and running in{" "}
-            <span className="gradient-text">under 10 minutes.</span>
+            Let us get you{" "}
+            <span className="gradient-text">up and running.</span>
           </h2>
           <p className="mt-4 text-xl text-slate-500 max-w-2xl mx-auto">
             No plumbing required. Works across residential, commercial, and
