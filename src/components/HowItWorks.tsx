@@ -8,8 +8,8 @@ const steps = [
     icon: "🔩",
     title: "Clamp",
     description:
-      "Attach the Etrenzik sensor to any existing pipe in minutes. No cutting, no soldering, no plumber required. Works on pipes ½″ to 4″.",
-    detail: "Non-invasive installation",
+      "Attach the Etrenzik sensor to any existing pipe. Works on pipes ½″ to 2″.",
+    detail: "Etrenzik installation",
   },
   {
     number: "02",
