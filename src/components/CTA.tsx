@@ -54,9 +54,7 @@ export default function CTA() {
               </a>
             </div>
 
-            <p className="mt-6 text-slate-400 text-sm">
-              No long-term contracts. Hardware ships in 3–5 days.
-            </p>
+
           </div>
         </motion.div>
       </div>
